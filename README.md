@@ -1,2 +1,0 @@
-# GitHub Pages講習
-
