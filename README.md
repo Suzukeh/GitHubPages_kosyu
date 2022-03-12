@@ -1,1 +1,2 @@
-# GitHubPages_kosyu
+# GitHub Pages講習
+
